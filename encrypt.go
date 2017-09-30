@@ -1,4 +1,4 @@
-package main
+package imsg
 
 import "fmt"
 import "io/ioutil"
